@@ -1,4 +1,4 @@
-# RAG Test Case Generation with MongoDB Atlas Vector Search
+# TestGenie - RAG Test Case Generation with MongoDB Atlas Vector Search
 
 A full-stack application for generating, searching, and managing test cases using Retrieval-Augmented Generation (RAG) with MongoDB Atlas Vector Search, BM25 indexing, and hybrid search capabilities.
 
